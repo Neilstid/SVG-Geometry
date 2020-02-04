@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1580803275 source:c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\main.cpp
+	<iostream>
+	<stdlib.h>
+	"rectange.h"
+	"File_handler.h"
+	"Form.h"
+	"circle.h"
+	"elipse.h"
+	"Line.h"
+	"polygon.h"
+	"text.h"
+
+1580799805 source:c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\src\rectange.cpp
+	"rectange.h"
+	"Form.h"
+	<stdlib.h>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1580799627 c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\include\rectange.h
+	"Form.h"
+
+1580799841 c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\include\file_handler.h
+	<iostream>
+
+1580799978 source:c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\src\file_handler.cpp
+	"File_handler.h"
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+
+1580758591 source:c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\src\form.cpp
+	"Form.h"
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+
+1580758385 c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\include\form.h
+
+1580758850 c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\include\circle.h
+	"Form.h"
+
+1580759021 source:c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\src\circle.cpp
+	"circle.h"
+	<stdlib.h>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<cmath>
+
+1580760710 c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\include\elipse.h
+	"Form.h"
+
+1580760892 source:c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\src\elipse.cpp
+	"elipse.h"
+	<stdlib.h>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<math.h>
+	<cmath>
+
+1580798772 c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\include\line.h
+
+1580799160 source:c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\src\line.cpp
+	"Line.h"
+	<stdlib.h>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<math.h>
+	<cmath>
+
+1580799468 source:c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\src\polygon.cpp
+	"polygon.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1580799322 c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\include\polygon.h
+	<vector>
+	"Form.h"
+
+1580803156 source:c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\src\text.cpp
+	"text.h"
+	<string>
+	<stdlib.h>
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
+1580803544 c:\users\neil\documents\neil\utbm\lo43\prepearation c++\geometrie\include\text.h
+	"Form.h"
+	<string>
+
